@@ -1,7 +1,5 @@
-<<<<<<< HEAD
 # rn-plugin
-=======
-# my-plugin
+
 
 this is my first rn plugin
 
@@ -28,4 +26,3 @@ See the [contributing guide](CONTRIBUTING.md) to learn how to contribute to the 
 ## License
 
 MIT
->>>>>>> chore: initial commit
